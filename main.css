@@ -1,13 +1,12 @@
-.background {
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    opacity: 0.5
+.golfcourse {
+    opacity: 0.5;
+    
 }
 
 .image-text {
 	position: absolute;
-	top: 100px;
+	top: 134px;
+	left: 600px;
 }
 
 .image-text span {
